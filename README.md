@@ -16,3 +16,12 @@ Machine Learning tutorials in Python
 - Decision Tree
 - Random Forest and Boosting algorithms
 - Preprocessing and Feature Extraction techniques
+
+3. Part - 3 [[ Theory and Code ](https://github.com/savan77/Practical-Machine-Learning-With-Python/blob/master/Part%20-%203/Practical%20Machine%20Learning%20With%20Python%20-%20Part%203.ipynb)]
+- K-nearest Neighbors Algorithm
+- K-means Clustering
+- Principal Component Analysis
+- Neural Networks
+
+4. Part - 4
+- Project
