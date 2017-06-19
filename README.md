@@ -24,4 +24,21 @@ Machine Learning tutorials in Python
 - Neural Networks
 
 4. Part - 4
-- Project
+- Project - 1
+
+5. Part - 5
+- Convolutional Neural Networks
+- Recurrent Neural Networks
+
+6. Part - 7
+- Autoencoder
+- Denoising Autoencoder
+- Restricted Boltzmann Machine
+- Deep Belief Network
+
+7. Part - 8
+- Generative Adversarial Networks
+- Variational Autoencoder
+
+8. Part - 9
+- Project - 2
