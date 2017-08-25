@@ -30,15 +30,15 @@ Machine Learning tutorials in Python
 - Convolutional Neural Networks
 - Recurrent Neural Networks
 
-6. **Part - 7**
+6. **Part - 6**
 - Autoencoder
 - Denoising Autoencoder
 - Restricted Boltzmann Machine
 - Deep Belief Network
 
-7. **Part - 8**
+7. **Part - 7**
 - Generative Adversarial Networks
 - Variational Autoencoder
 
-8. **Part - 9**
+8. **Part - 8**
 - Project - 2
