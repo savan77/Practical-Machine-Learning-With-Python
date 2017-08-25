@@ -23,7 +23,7 @@ Machine Learning tutorials in Python
 - Principal Component Analysis
 - Neural Networks
 
-4. **Part - 4**
+4. **Part - 4** [[ ipynb ](https://github.com/savan77/Practical-Machine-Learning-With-Python/blob/master/Part%20-%204/Titanic_survival.ipynb)]
 - Project - 1
 
 5. **Part - 5**
