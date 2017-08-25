@@ -1,0 +1,1 @@
+In this part, we will use algorithms that we learned in previous parts.
